@@ -1,0 +1,63 @@
+/* Report Detail */
+
+.detail-meta {
+  margin: 10px 0;
+}
+
+.detail-date {
+  font-size: 14px;
+  color: #666;
+}
+
+.status-badge {
+  padding: 3px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+  color: white;
+  margin-left: 10px;
+}
+
+.status-verified {
+  background: #28a745;
+}
+
+.status-pending {
+  background: #ffc107;
+}
+
+.status-investigating {
+  background: #17a2b8;
+}
+
+.description-text {
+  margin: 15px 0;
+}
+
+.scammer-info-box {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 15px 0;
+}
+
+.info-item {
+  display: block;
+  margin: 5px 0;
+}
+
+.amount-box {
+  background: #fff3cd;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 15px 0;
+}
+
+.evidence-img {
+  margin: 15px 0;
+}
+
+.evidence-img img {
+  max-width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
