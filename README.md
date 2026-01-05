@@ -1,8 +1,8 @@
-# ScamShield
+# ScamShield 🕴
 
 **Fraud Reporting & Awareness Hub**
 
-ScamShield is a comprehensive web-based platform designed to help users report scams, share fraud experiences, and stay informed about the latest scam trends. The platform provides a centralized database of verified scam reports, educational resources, and a community-driven approach to fraud prevention.
+ScamShield is a comprehensive web-based platform designed to help users report scams, share fraud experiences, and stay informed about the latest scam trends. The platform provides a centralized database of verified scam reports, educational resources, and a community-driven approach to fraud prevention. It's really helpful.
 
 ## Features
 
