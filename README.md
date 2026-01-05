@@ -1,4 +1,4 @@
-# ScamShield
+# ScamShield 🕴
 
 **Fraud Reporting & Awareness Hub**
 
